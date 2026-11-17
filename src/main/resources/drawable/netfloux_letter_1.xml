@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Lettre 2 du logo Netfloux, dans le cadre du logo entier : les huit se superposent. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="202dp" android:height="48dp"
+    android:viewportWidth="807.37" android:viewportHeight="191.53">
+        <path android:pathData="M115.18,2.59l80.93,0q0,12.68,0,25.35-25.62.16-51.25.36l0,47.5q20.35-.42,40.73-.77,0,12.7,0,25.41-20.37.48-40.73,1l0,55.21q25.62-1.09,51.25-2,0,12.68,0,25.35-40.47,1.62-80.92,3.85Q115.13,93.24,115.18,2.59Z">
+            <aapt:attr name="android:fillColor">
+                <gradient android:type="linear"
+                    android:startX="0" android:startY="0" android:endX="807.37" android:endY="191.53">
+                    <item android:offset="0.0" android:color="#FFFF3B3F" />
+                    <item android:offset="0.38" android:color="#FFFF3B3F" />
+                    <item android:offset="1.0" android:color="#FF8257FF" />
+                </gradient>
+            </aapt:attr>
+        </path>
+</vector>

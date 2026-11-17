@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Bannière de l'écran d'accueil Android TV : le logo sur fond noir. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <gradient android:startColor="#FF000000" android:endColor="#FF14091F" android:angle="315" />
+        </shape>
+    </item>
+    <item android:drawable="@drawable/netfloux_logo"
+        android:gravity="center"
+        android:width="232dp" android:height="55dp" />
+</layer-list>
